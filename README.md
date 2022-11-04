@@ -33,7 +33,7 @@ Dada la función **_strictEquals_**, cuando se comparan **A** y **B**, el result
 
 ## Resultado
 
-https://patricia-challenge-w4.netlify.app/
+https://hilarious-alfajores-8d4e4f.netlify.app
 
 ## Tecnologías usadas
 
