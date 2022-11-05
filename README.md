@@ -38,3 +38,5 @@ https://app.netlify.com/sites/ana-pedra-week4/settings/general
 ![Logos of used technologies](/assets/tech_logos.jpg)
 
 Cats
+
+Samples
