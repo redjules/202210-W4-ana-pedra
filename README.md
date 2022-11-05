@@ -1,5 +1,3 @@
-<img align="right" width="179" height="118" alt="ISDI CODER LOGO" src="/assets/isdi_logo_hq.jpg">
-
 # :zap: Challenge Week 4
 
 Escribe en un módulo propio, una función llamada **_strictEquals(a, b)_** que devuelva el mismo valor que `a === b`. Tu implementación no puede usar los operadores `===` ni `!==`.
