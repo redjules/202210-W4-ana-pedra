@@ -36,5 +36,3 @@ https://app.netlify.com/sites/ana-pedra-week4/settings/general
 ## Tecnologías usadas
 
 ![Logos of used technologies](/assets/tech_logos.jpg)
-
-Dogs
